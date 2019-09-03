@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546351579 source:c:\users\gelu\desktop\probleme pc\l06 - l07\l09ex7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546189553 source:c:\users\gelu\desktop\probleme pc\l05\l05ex12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

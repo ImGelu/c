@@ -1,0 +1,3 @@
+142452	Lapte	litru	1002.00	2.00
+123	Biscuiti	grame	200.00	1.20
+Faina	23	Faina	2.00	4.00
